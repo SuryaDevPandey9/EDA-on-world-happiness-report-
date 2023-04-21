@@ -8,3 +8,10 @@ We looked at factors such as GDP per capita, freedom to make life choices, and p
 <h1 align="center" id="title">Conclusion</h1>
 <p id="description">Our anlysis in shown that the factors that contributes vary widely across different countries. Example freedom to make life choices are important factors of happiness, preception of corruption have greater impact on happiness in some region than others.
 Overall, our  analysis is provides valuable insights that how many factors can affect the happiness of diffrent countries and regions.</p>  
+<h2>🛡️ Credits:</h2>
+
+This project was completed by Surya Dev Pandey as part of a Data Science Course Of Mentorkart with the help Coursemates,Youtube and Mentors. We would like to acknowledge the World Happiness Report for providing the dataset used in this project.
+
+<h2>🛡️ License:</h2>
+
+This project is licensed under the GNU General Public License v3.0
